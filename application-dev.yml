@@ -1,0 +1,4 @@
+my:
+  greeting: Hello World from Config Server in SIT
+  name: Trideep
+  lastname: Singha
