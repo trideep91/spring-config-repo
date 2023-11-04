@@ -1,4 +1,4 @@
 my:
-  greeting: Hello World from Config Server in SIT
+  greeting: Hello World from Config Server in DEV
   name: Trideep
   lastname: Singha
